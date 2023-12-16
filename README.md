@@ -11,6 +11,10 @@ The `ColorPaletteSelector` component is a React component designed to generate a
 - **Contrasting Text Color**: The text color of the HEX code dynamically changes to either black or white, depending on the background color's brightness, ensuring that the HEX code is always readable.
 - **Interactive**: Users can generate a new color palette using a simple button click.
 
+## Example
+
+![Color Palette Selector Example](./colorPaletteGenerator/src/assets/colorPaletteExample.png)
+
 ## How It Works
 
 - The component initializes with a default set of colors.
