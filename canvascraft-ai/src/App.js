@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './styles/App.css';
 import ColorPaletteSelector from './components/ColorPaletteSelector';
 
